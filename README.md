@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://suryakumarsahani.netlify.app/)**
-
 - 📫 How to reach me **suryakumarsahani.09@gmail.com**
 
 - ⚡ Fun fact **I love to play chess.**
