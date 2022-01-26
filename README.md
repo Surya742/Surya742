@@ -6,11 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with **[Tekie](https://www.tekie.in/)**
+- 🌱 I’m currently into **Data Structures and Algorithms.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate with **OpenSource Projects**
 
 - 📫 How to reach me **suryakumarsahani.09@gmail.com**
 
